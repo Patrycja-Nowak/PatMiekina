@@ -5,8 +5,8 @@ First and foremost, as an architectural designer, I am a problem solver and have
 
 - 🔭 I’m currently working on an app on managing eating habits.
 - 🌱 I’m currently learning Vanilla JS, React and doing CS50 Introduction to Computer Science course at Harvard University.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/patrycja-miekina/) ✉️ patmiekina@gmail.com
-- 😄 Pronouns: she / her
+- 📫 How to reach me: 💼 [LinkedIn](https://www.linkedin.com/in/patrycja-miekina/) ✉️ patmiekina@gmail.com
+- 👩‍💻 Pronouns: she / her
 - ⚡ Fun fact: I love flamingos! 🦩🦩🦩
 
 I am looking for a position as a **Fullstack Developer.**
