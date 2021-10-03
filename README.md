@@ -1,5 +1,5 @@
 ### Hi there, I'm Patrycja 👋
-## A self-taught fullstack developer with background in Architecture and Interior design.
+#### A self-taught fullstack developer with background in Architecture and Interior design.
 
 First and foremost, as an architectural designer, I am a problem solver and have experience in finding non-obvious solutions at all stages of the design process. Proficient in creative thinking, time management, adaptive and hard-working, I am determined to apply my design skills in writing clear, efficient and smart code. 
 
