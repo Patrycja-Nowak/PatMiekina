@@ -8,6 +8,6 @@ First and foremost, as an architectural designer, I am a problem solver and have
 
 - 🔭 I’m currently working on an app on managing eating habits.
 - 🌱 I’m currently learning TypeScript, vanilla JavaScript and React.
-- 📫 How to reach me: 💼 [LinkedIn](https://www.linkedin.com/in/patrycja-miekina/) ✉️ patmiekina@gmail.com
+- 📫 How to reach me: 💼 [LinkedIn](https://www.linkedin.com/in/patrycja-m-nowak/) ✉️ nowak.m.patrycja@gmail.com
 - 👩‍💻 Pronouns: she / her
 - ⚡ Fun fact: I love flamingos! 🦩🦩🦩
